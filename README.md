@@ -1,0 +1,1 @@
+When user enter the parameter values as number of secondary viens, hight/width ratio, and size of base angel, Model gives the output. This model is for only Ixora coccinea, Allamanda Cathartica and Cryptostegia grandiflora. This Dataset also mannually created one.
